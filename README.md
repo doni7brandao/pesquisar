@@ -1,2 +1,2 @@
 # pesquisar
-Script simples para pesquisa de opinião, desenvolvido em PHP e JS sem uso de banco de dados.
+Script simples para pesquisa de opinião, desenvolvido em PHP e Javascript, sem uso de Banco de Dados.
